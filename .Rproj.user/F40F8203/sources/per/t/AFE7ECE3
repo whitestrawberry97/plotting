@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1652007998755.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1245082102",
+    "id" : "AFE7ECE3",
+    "lastKnownWriteTime" : 1652008016,
+    "last_content_update" : 1652008016741,
+    "path" : "C:/Users/maria/OneDrive/Pulpit/uczelnia/coursera/x/plot2.R",
+    "project_path" : "plot2.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

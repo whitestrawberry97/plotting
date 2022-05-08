@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1652007971582.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2600461876",
+    "id" : "41BC7D8B",
+    "lastKnownWriteTime" : 1652007987,
+    "last_content_update" : 1652007987361,
+    "path" : "C:/Users/maria/OneDrive/Pulpit/uczelnia/coursera/x/plot1.R",
+    "project_path" : "plot1.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
